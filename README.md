@@ -1,5 +1,5 @@
 # 🌱 Study_Matching
-Study Matching 하고 취뽀하자!
+Study Matching 하고 스터디 관리하자!
 
 <br>
 
