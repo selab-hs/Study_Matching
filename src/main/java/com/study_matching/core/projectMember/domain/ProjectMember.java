@@ -1,4 +1,4 @@
-package com.study_matching.core.ProjectMember.domain;
+package com.study_matching.core.projectMember.domain;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

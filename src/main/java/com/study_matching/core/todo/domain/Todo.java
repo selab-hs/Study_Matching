@@ -1,4 +1,4 @@
-package com.study_matching.core.Todo.domain;
+package com.study_matching.core.todo.domain;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
